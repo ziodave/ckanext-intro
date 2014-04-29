@@ -41,7 +41,7 @@ Installation
 
 Install the extension as usual, in you activated virtualenv::
 
-   pip install -e git+https://github.com/okfn/ckanext-intro.git#egg=ckanext-intro
+   pip install -e 'git+https://github.com/okfn/ckanext-intro.git#egg=ckanext-intro'
 
 If you want to jump straight away to the end result, just add the plugin to
 your CKAN configuration file::
